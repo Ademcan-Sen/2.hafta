@@ -3,10 +3,10 @@ class Solution:
         left, right = 0, len(s) - 1
         
         while left < right and s[left] == s[right]:
-            char = s[left]
-            while left <= right and s[left] == char:
+            k = s[left]
+            while left <= right and s[left] == k:
                 left += 1
-            while right >= left and s[right] == char:
+            while right >= left and s[right] == k:
                 right -= 1
         
         return right - left + 1
