@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0227-basic-calculator-ii](https://github.com/Ademcan-Sen/28.-Find-the-Index-of-the-First-Occurrence-in-a-String/tree/master/0227-basic-calculator-ii) |
 | [0953-reverse-only-letters](https://github.com/Ademcan-Sen/28.-Find-the-Index-of-the-First-Occurrence-in-a-String/tree/master/0953-reverse-only-letters) |
 | [1078-remove-outermost-parentheses](https://github.com/Ademcan-Sen/28.-Find-the-Index-of-the-First-Occurrence-in-a-String/tree/master/1078-remove-outermost-parentheses) |
+| [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Ademcan-Sen/28.-Find-the-Index-of-the-First-Occurrence-in-a-String/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1850-minimum-length-of-string-after-deleting-similar-ends](https://github.com/Ademcan-Sen/28.-Find-the-Index-of-the-First-Occurrence-in-a-String/tree/master/1850-minimum-length-of-string-after-deleting-similar-ends) |
 ## String Matching
 |  |
@@ -41,4 +42,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0227-basic-calculator-ii](https://github.com/Ademcan-Sen/28.-Find-the-Index-of-the-First-Occurrence-in-a-String/tree/master/0227-basic-calculator-ii) |
 | [1078-remove-outermost-parentheses](https://github.com/Ademcan-Sen/28.-Find-the-Index-of-the-First-Occurrence-in-a-String/tree/master/1078-remove-outermost-parentheses) |
+| [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Ademcan-Sen/28.-Find-the-Index-of-the-First-Occurrence-in-a-String/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 <!---LeetCode Topics End-->
