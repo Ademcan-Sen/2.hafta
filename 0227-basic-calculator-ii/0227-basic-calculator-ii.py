@@ -7,7 +7,6 @@ class Solution:
         for i, char in enumerate(s):
             if char.isdigit():
                 current_number = current_number * 10 + int(char)
-            
             if not char.isdigit() or i == len(s) - 1:
                 if operation == '+':
                     stack.append(current_number)
