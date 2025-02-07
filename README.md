@@ -28,10 +28,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [1552-build-an-array-with-stack-operations](https://github.com/Ademcan-Sen/28.-Find-the-Index-of-the-First-Occurrence-in-a-String/tree/master/1552-build-an-array-with-stack-operations) |
 | [2698-find-the-array-concatenation-value](https://github.com/Ademcan-Sen/28.-Find-the-Index-of-the-First-Occurrence-in-a-String/tree/master/2698-find-the-array-concatenation-value) |
 ## Simulation
 |  |
 | ------- |
+| [1552-build-an-array-with-stack-operations](https://github.com/Ademcan-Sen/28.-Find-the-Index-of-the-First-Occurrence-in-a-String/tree/master/1552-build-an-array-with-stack-operations) |
 | [2698-find-the-array-concatenation-value](https://github.com/Ademcan-Sen/28.-Find-the-Index-of-the-First-Occurrence-in-a-String/tree/master/2698-find-the-array-concatenation-value) |
 ## Math
 |  |
@@ -43,4 +45,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0227-basic-calculator-ii](https://github.com/Ademcan-Sen/28.-Find-the-Index-of-the-First-Occurrence-in-a-String/tree/master/0227-basic-calculator-ii) |
 | [1078-remove-outermost-parentheses](https://github.com/Ademcan-Sen/28.-Find-the-Index-of-the-First-Occurrence-in-a-String/tree/master/1078-remove-outermost-parentheses) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Ademcan-Sen/28.-Find-the-Index-of-the-First-Occurrence-in-a-String/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
+| [1552-build-an-array-with-stack-operations](https://github.com/Ademcan-Sen/28.-Find-the-Index-of-the-First-Occurrence-in-a-String/tree/master/1552-build-an-array-with-stack-operations) |
 <!---LeetCode Topics End-->
