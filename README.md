@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1552-build-an-array-with-stack-operations](https://github.com/Ademcan-Sen/28.-Find-the-Index-of-the-First-Occurrence-in-a-String/tree/master/1552-build-an-array-with-stack-operations) |
+| [1755-defuse-the-bomb](https://github.com/Ademcan-Sen/28.-Find-the-Index-of-the-First-Occurrence-in-a-String/tree/master/1755-defuse-the-bomb) |
 | [2698-find-the-array-concatenation-value](https://github.com/Ademcan-Sen/28.-Find-the-Index-of-the-First-Occurrence-in-a-String/tree/master/2698-find-the-array-concatenation-value) |
 ## Simulation
 |  |
@@ -46,4 +47,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1078-remove-outermost-parentheses](https://github.com/Ademcan-Sen/28.-Find-the-Index-of-the-First-Occurrence-in-a-String/tree/master/1078-remove-outermost-parentheses) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Ademcan-Sen/28.-Find-the-Index-of-the-First-Occurrence-in-a-String/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1552-build-an-array-with-stack-operations](https://github.com/Ademcan-Sen/28.-Find-the-Index-of-the-First-Occurrence-in-a-String/tree/master/1552-build-an-array-with-stack-operations) |
+## Sliding Window
+|  |
+| ------- |
+| [1755-defuse-the-bomb](https://github.com/Ademcan-Sen/28.-Find-the-Index-of-the-First-Occurrence-in-a-String/tree/master/1755-defuse-the-bomb) |
 <!---LeetCode Topics End-->
