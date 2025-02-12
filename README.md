@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1078-remove-outermost-parentheses](https://github.com/Ademcan-Sen/28.-Find-the-Index-of-the-First-Occurrence-in-a-String/tree/master/1078-remove-outermost-parentheses) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Ademcan-Sen/28.-Find-the-Index-of-the-First-Occurrence-in-a-String/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1850-minimum-length-of-string-after-deleting-similar-ends](https://github.com/Ademcan-Sen/28.-Find-the-Index-of-the-First-Occurrence-in-a-String/tree/master/1850-minimum-length-of-string-after-deleting-similar-ends) |
+| [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Ademcan-Sen/28.-Find-the-Index-of-the-First-Occurrence-in-a-String/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 ## String Matching
 |  |
 | ------- |
@@ -51,4 +52,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1755-defuse-the-bomb](https://github.com/Ademcan-Sen/28.-Find-the-Index-of-the-First-Occurrence-in-a-String/tree/master/1755-defuse-the-bomb) |
+| [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Ademcan-Sen/28.-Find-the-Index-of-the-First-Occurrence-in-a-String/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 <!---LeetCode Topics End-->
